@@ -1,2 +1,12 @@
 # Online-Grocery-Order-and-Management-System
 This project is based on Online Grocery Ordering and Management system which is made from HTML, CSS, JavaScript, MySQL, PhpMyAdmin
+Follow the steps in order to run this website in your device.
+
+STEPS TO RUN:-
+
+INSTALL XAMPP AND RUN APACHE AND SQL.
+COPY THE GROCERY FOLDER TO htdocs in xampp FOLDER
+LOAD THE grocery.sql table TO PHPMYADMIN USING IMPORT IN PHPMYADMIN IN LOCAL SERVER.
+FIRST PAGE IS SIGNUP.
+THREE MODES-ADMIN,EMPLOYEEE,AND CUSTOMER. CUSTOMER CREDENTIAL SIGNUPS ARE GIVEN. FOR EMPLOYEE AND ADMIN MODE SEE CREDENTIAL FROM TABLE IN PHPMYADMIN AND LOGIN. ONLY ADMIN CAN ADD EMPLOYEE AS OF NOW.
+ADD EMPLOYEE OR ADMIN MANUALLY IN TABLE admin or emploee.
